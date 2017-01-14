@@ -1,0 +1,34 @@
+
+html, body {
+    height: 100%;
+    font-family: 'Roboto', sans-serif;
+    font-size: 15;
+}
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    font-size: 62,5;
+    background-color: rgb(200, 200, 200);
+}
+
+.main-header{
+    flex: 0 1 auto;
+}
+
+.logo-text {
+    background: white;
+    font-family: 'Lobster', cursive;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 3.7em;
+    background-color: rgb(255, 250, 250);
+}
+
+
+.nav{
+  padding:100%;
+  text-align:center;
+  font-size: 10;
+}
